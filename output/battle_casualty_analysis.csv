@@ -1,0 +1,8 @@
+battle,theater,start_date,killed,wounded,casualty_scope,notes,known_casualties
+Pearl Harbor,Pacific,1941-12-07,2335,1143.0,US military,Killed and wounded,3478.0
+Midway,Pacific,1942-06-04,307,,US forces,Killed only; wounded not listed in this table,307.0
+Anzio,Italy,1944-01-22,2960,11166.0,US forces,Killed and wounded,14126.0
+Monte Cassino,Italy,1944-02-12,3145,13704.0,US forces,"Killed and wounded; missing also reported separately (1,082)",16849.0
+D-Day,Western Europe,1944-06-06,1465,3184.0,US forces,Killed and wounded,4649.0
+Iwo Jima,Pacific,1945-02-19,7726,20378.0,US forces,Killed and wounded,28104.0
+Okinawa,Pacific,1945-04-01,12281,32602.0,US forces,Killed and wounded,44883.0
